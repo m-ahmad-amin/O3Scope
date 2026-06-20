@@ -2,7 +2,7 @@
 
 > Turning NASA satellite data into interactive ozone insights | from global trends to city-level risk classification.
 
-**[▶ Live Demo](https://app.hex.tech/auth/magic/callback?orgId=019bc84d-6d99-7005-ad5d-c5d4b1514cf3&redirectTo=%2F019bc84d-6d99-7005-ad5d-c5d4b1514cf3%2Fapp%2FO3Scope-Ozone-Analysis-and-Prediction-Using-Nasa-DataSet-032DBlWgYk46bGQvfCRhkz%2Flatest#eyJ0b2tlbiI6ImV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpsYldGcGJDSTZJbTFoYldsdUxtSnpZM015TkhObFpXTnpRSE5sWldOekxtVmtkUzV3YXlJc0ltVnRZbVZrWkdWa0lqcG1ZV3h6WlN3aVkyOWtaU0k2SWpReE5qSTVJaXdpYVdGMElqb3hOemd4T1RJM056STBMQ0psZUhBaU9qRTNPREU1TWpnek1qUjkuTDlNOGRkNnQ0Vm5JYWVzYWRweHRJamlxX0lkLVF5bjRIZzBZV0hhaEYtcyJ9)**
+**[▶ Live Demo](https://app.hex.tech/019bc84d-6d99-7005-ad5d-c5d4b1514cf3/app/O3Scope-Ozone-Analysis-and-Prediction-Using-Nasa-DataSet-032DBlWgYk46bGQvfCRhkz/latest)**
 ---
 
 ## 🧠 Motivation
